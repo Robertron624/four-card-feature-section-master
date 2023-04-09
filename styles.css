@@ -86,6 +86,11 @@ p {
     border-top-color: var(--blue);
 }
 
+
+footer {
+    text-align: center  ;
+}
+
 @media (min-width: 768px) {
     .description {
         max-width: 477px;
